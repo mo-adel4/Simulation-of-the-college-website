@@ -1,4 +1,3 @@
-## open file with exe file 
 
 ## Aswan Faculty of Engineering Console Simulator
 
