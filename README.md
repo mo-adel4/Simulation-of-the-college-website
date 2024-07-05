@@ -14,4 +14,4 @@ The simulator provides an interactive text-based experience for prospective stud
 - **About the Faculty**: Detailed information about the faculty's mission, vision, values, achievements, and historical background.
 
 - 
-
+##open file with exe file 
